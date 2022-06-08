@@ -1,0 +1,515 @@
+{
+  "books": {
+    "currentlyReading": [
+      {
+        "id": 100,
+        "name": "Bring Your Human to Work",
+        "url": "/assets/1102.png",
+        "timeRead": "13-minute read",
+        "progress": 60,
+        "writerName": "Erica Keswin",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 101,
+        "name": "Employee to Entrepreneur",
+        "url": "/assets/111.png",
+        "timeRead": "15-minute read",
+        "progress": 50,
+        "writerName": "Steve Glaveski",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      },
+      {
+        "id": 102,
+        "name": "Doesn’t Hurt to Ask",
+        "url": "/assets/31.png",
+        "timeRead": "13-minute read",
+        "progress": 80,
+        "writerName": "Trey Gowdy",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 103,
+        "name": "The Fate of Food",
+        "url": "/assets/41.png",
+        "timeRead": "12-minute read",
+        "progress": 90,
+        "writerName": "Amanda Little",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 16
+      },
+      {
+        "id": 104,
+        "name": "Lives of the Stoics",
+        "url": "/assets/51.png",
+        "timeRead": "13-minute read",
+        "progress": 10,
+        "writerName": "Ryan Holiday, Stephen Hansel",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      },
+      {
+        "id": 105,
+        "name": "Being Boss",
+        "url": "/assets/101.png",
+        "timeRead": "13-minute read",
+        "progress": 70,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 107,
+        "name": "Loving Your Business",
+        "url": "/assets/61.png",
+        "timeRead": "13-minute read",
+        "progress": 65,
+        "writerName": "Debbie King",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 10
+      },
+      {
+        "id": 108,
+        "name": "The Lonely Century",
+        "url": "/assets/71.png",
+        "timeRead": "15-minute read",
+        "progress": 30,
+        "writerName": "Noreena Hertz",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      }
+    ],
+    "finishedBook": [
+      {
+        "id": 106,
+        "name": "Beyond Entrepreneurship",
+        "url": "/assets/21.png",
+        "timeRead": "13-minute read",
+        "progress": 100,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 105,
+        "name": "Being Boss",
+        "url": "/assets/101.png",
+        "timeRead": "13-minute read",
+        "progress": 100,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      }
+    ]
+  },
+  "library": {
+    "currentlyReading": [
+      {
+        "id": 100,
+        "name": "Bring Your Human to Work",
+        "url": "/assets/1102.png",
+        "timeRead": "13-minute read",
+        "progress": 60,
+        "writerName": "Erica Keswin",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 101,
+        "name": "Employee to Entrepreneur",
+        "url": "/assets/111.png",
+        "timeRead": "15-minute read",
+        "progress": 50,
+        "writerName": "Steve Glaveski",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      },
+      {
+        "id": 102,
+        "name": "Doesn’t Hurt to Ask",
+        "url": "/assets/31.png",
+        "timeRead": "13-minute read",
+        "progress": 80,
+        "writerName": "Trey Gowdy",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 103,
+        "name": "The Fate of Food",
+        "url": "/assets/41.png",
+        "timeRead": "12-minute read",
+        "progress": 90,
+        "writerName": "Amanda Little",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 16
+      },
+      {
+        "id": 104,
+        "name": "Lives of the Stoics",
+        "url": "/assets/51.png",
+        "timeRead": "13-minute read",
+        "progress": 10,
+        "writerName": "Ryan Holiday, Stephen Hansel",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      },
+      {
+        "id": 105,
+        "name": "Being Boss",
+        "url": "/assets/101.png",
+        "timeRead": "13-minute read",
+        "progress": 70,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 107,
+        "name": "Loving Your Business",
+        "url": "/assets/61.png",
+        "timeRead": "13-minute read",
+        "progress": 65,
+        "writerName": "Debbie King",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 10
+      },
+      {
+        "id": 108,
+        "name": "The Lonely Century",
+        "url": "/assets/71.png",
+        "timeRead": "15-minute read",
+        "progress": 30,
+        "writerName": "Noreena Hertz",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 0
+      },
+      {
+        "id": 110,
+        "progress": 0
+      }
+    ],
+    "finishedBook": [
+      {
+        "id": 106,
+        "name": "Beyond Entrepreneurship",
+        "url": "/assets/21.png",
+        "timeRead": "13-minute read",
+        "progress": 100,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      },
+      {
+        "id": 105,
+        "name": "Being Boss",
+        "url": "/assets/101.png",
+        "timeRead": "13-minute read",
+        "progress": 100,
+        "writerName": "Jim Collins & Bill Lazier",
+        "for": "for people",
+        "about_author": "about author ",
+        "readsNo": 1.9
+      }
+    ]
+  },
+  "extra": {
+    "categories": [
+      {
+        "id": 201,
+        "heading": "Trending Blinks",
+        "books": [
+          {
+            "id": 100,
+            "name": "Bring Your Human to Work",
+            "url": "/assets/1102.png",
+            "timeRead": "13-minute read",
+            "progress": 60,
+            "writerName": "Erica Keswin",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          },
+          {
+            "id": 101,
+            "name": "Employee to Entrepreneur",
+            "url": "/assets/111.png",
+            "timeRead": "15-minute read",
+            "progress": 50,
+            "writerName": "Steve Glaveski",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 0
+          },
+          {
+            "id": 102,
+            "name": "Doesn’t Hurt to Ask",
+            "url": "/assets/31.png",
+            "timeRead": "13-minute read",
+            "progress": 80,
+            "writerName": "Trey Gowdy",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          },
+          {
+            "id": 103,
+            "name": "The Fate of Food",
+            "url": "/assets/41.png",
+            "timeRead": "12-minute read",
+            "progress": 90,
+            "writerName": "Amanda Little",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 16
+          },
+          {
+            "id": 104,
+            "name": "Lives of the Stoics",
+            "url": "/assets/51.png",
+            "timeRead": "13-minute read",
+            "progress": 10,
+            "writerName": "Ryan Holiday, Stephen Hansel",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 0
+          },
+          {
+            "id": 105,
+            "name": "Being Boss",
+            "url": "/assets/101.png",
+            "timeRead": "13-minute read",
+            "progress": 70,
+            "writerName": "Jim Collins & Bill Lazier",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "heading": "Just Added",
+        "books": [
+          {
+            "id": 105,
+            "name": "Being Boss",
+            "url": "/assets/101.png",
+            "timeRead": "13-minute read",
+            "progress": 70,
+            "writerName": "Jim Collins & Bill Lazier",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          },
+          {
+            "id": 107,
+            "name": "Loving Your Business",
+            "url": "/assets/61.png",
+            "timeRead": "13-minute read",
+            "progress": 65,
+            "writerName": "Debbie King",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 10
+          },
+          {
+            "id": 108,
+            "name": "The Lonely Century",
+            "url": "/assets/71.png",
+            "timeRead": "15-minute read",
+            "progress": 30,
+            "writerName": "Noreena Hertz",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 0
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "heading": "Featured Audio Blinks",
+        "books": [
+          {
+            "id": 105,
+            "name": "Being Boss",
+            "url": "/assets/101.png",
+            "timeRead": "13-minute read",
+            "progress": 70,
+            "writerName": "Jim Collins & Bill Lazier",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          },
+          {
+            "id": 109,
+            "name": "Eat Better, Feel Better",
+            "url": "/assets/81.png",
+            "timeRead": "13-minute read",
+            "progress": 30,
+            "writerName": "Giada De Laurentiis",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 1.9
+          },
+          {
+            "id": 110,
+            "name": "Dropshipping",
+            "url": "/assets/91.png",
+            "timeRead": "12-minute read",
+            "progress": 20,
+            "writerName": "James Moore",
+            "for": "for people",
+            "about_author": "about author ",
+            "readsNo": 0
+          }
+        ]
+      }
+    ]
+  },
+  "book-info": [
+    {
+      "id": 100,
+      "name": "Bring Your Human to Work",
+      "url": "/assets/1102.png",
+      "timeRead": "13-minute read",
+      "progress": 60,
+      "writerName": "Erica Keswin",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 1.9
+    },
+    {
+      "id": 101,
+      "name": "Employee to Entrepreneur",
+      "url": "/assets/111.png",
+      "timeRead": "15-minute read",
+      "progress": 50,
+      "writerName": "Steve Glaveski",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 0
+    },
+    {
+      "id": 102,
+      "name": "Doesn’t Hurt to Ask",
+      "url": "/assets/31.png",
+      "timeRead": "13-minute read",
+      "progress": 80,
+      "writerName": "Trey Gowdy",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 1.9
+    },
+    {
+      "id": 103,
+      "name": "The Fate of Food",
+      "url": "/assets/41.png",
+      "timeRead": "12-minute read",
+      "progress": 90,
+      "writerName": "Amanda Little",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 16
+    },
+    {
+      "id": 104,
+      "name": "Lives of the Stoics",
+      "url": "/assets/51.png",
+      "timeRead": "13-minute read",
+      "progress": 10,
+      "writerName": "Ryan Holiday, Stephen Hansel",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 0
+    },
+    {
+      "id": 105,
+      "name": "Being Boss",
+      "url": "/assets/101.png",
+      "timeRead": "13-minute read",
+      "progress": 70,
+      "writerName": "Kathleen Shanon and Emily",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 0
+    },
+    {
+      "id": 106,
+      "name": "Beyond Entrepreneurship",
+      "url": "/assets/21.png",
+      "timeRead": "13-minute read",
+      "progress": 60,
+      "writerName": "Jim Collins & Bill Lazier",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 1.9
+    },
+    {
+      "id": 107,
+      "name": "Loving Your Business",
+      "url": "/assets/61.png",
+      "timeRead": "13-minute read",
+      "progress": 65,
+      "writerName": "Debbie King",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 10
+    },
+    {
+      "id": 108,
+      "name": "The Lonely Century",
+      "url": "/assets/71.png",
+      "timeRead": "15-minute read",
+      "progress": 30,
+      "writerName": "Noreena Hertz",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 0
+    },
+    {
+      "id": 109,
+      "name": "Eat Better, Feel Better",
+      "url": "/assets/81.png",
+      "timeRead": "13-minute read",
+      "progress": 30,
+      "writerName": "Giada De Laurentiis",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 1.9
+    },
+    {
+      "id": 110,
+      "name": "Dropshipping",
+      "url": "/assets/91.png",
+      "timeRead": "12-minute read",
+      "progress": 20,
+      "writerName": "James Moore",
+      "for": "for people",
+      "about_author": "about author ",
+      "readsNo": 0
+    }
+  ]
+}
