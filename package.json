@@ -30,7 +30,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "coverage": "npm test -- --coverage --testResultsProcessor=jest-sonar-reporter --watchAll"
   },
   "eslintConfig": {
     "extends": [
@@ -78,6 +79,7 @@
     "babel-jest": "^28.1.1",
     "babel-plugin-named-exports-order": "^0.0.2",
     "jest": "^28.1.1",
+    "jest-sonar-reporter": "^2.0.0",
     "prop-types": "^15.8.1",
     "react-test-renderer": "^18.1.0",
     "webpack": "^5.72.1"
