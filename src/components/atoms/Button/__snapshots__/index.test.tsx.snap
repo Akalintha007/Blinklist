@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the ImageComponent it renders Button 1`] = `
+<button
+  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1ctd5mc-MuiButtonBase-root-MuiButton-root"
+  tabindex="0"
+  type="button"
+>
+  Hello
+  <span
+    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Testing the ImageComponent renders Button 1`] = `
+<button
+  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1ctd5mc-MuiButtonBase-root-MuiButton-root"
+  tabindex="0"
+  type="button"
+>
+  Hello
+  <span
+    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`it renders Button 1`] = `
+<button
+  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1ctd5mc-MuiButtonBase-root-MuiButton-root"
+  tabindex="0"
+  type="button"
+>
+  Hello
+  <span
+    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+  />
+</button>
+`;

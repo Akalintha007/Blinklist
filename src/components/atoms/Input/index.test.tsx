@@ -1,9 +1,10 @@
-import React from 'react';
+
 import InputComponent from ".";
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 
-import {Search} from '@mui/icons-material';
+// import {Search} from '@mui/icons-material';
 import { fireEvent, render, screen } from '@testing-library/react';
+// startIcon={<Search/>}
 
 const theme = createTheme({
     palette: {
@@ -16,7 +17,7 @@ const theme = createTheme({
 test('Input Components', () => {
     render(
         <ThemeProvider theme={theme}>
-            <InputComponent startIcon={<Search/>}></InputComponent>
+            <InputComponent ></InputComponent>
        </ThemeProvider>
     );
     
